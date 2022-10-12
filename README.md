@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KingDavidJnr
-- 👀 I’m interested in Python
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on Networking
-- 📫 How to reach me ...
 
 <!---
 KingDavidJnr/KingDavidJnr is a ✨ SEO Specialist ✨ repository because its `README.md` (this file) appears on your GitHub profile.
