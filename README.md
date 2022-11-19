@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingDavidJnr
 - 👀 I’m a Full Stack Developer
-- 🌱 I’m currently learning Data Science and Analytics
+- 🌱 I’m currently studying Software Engineering at ALX.
 - 💞️ I’m looking to collaborate on Networking
 
 <!---
