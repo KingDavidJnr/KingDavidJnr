@@ -80,12 +80,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KingDavidJnr)  
 -->
 
-## About David Oduse
-
-* David Oduse is a goal-oriented human, who continuously seek to contribute his professional quota, to help result driven organizations to smashing their corporate set goals.
-
-* As an experienced Content Writer and SEO expert with over 6 years of industry experience, I have honed my skills in creating engaging and impactful content that drives results. I have also taken my passion for technology to the next level by studying Software Engineering at Holberton School. Additionally, I've gained hands-on experience in backend development as I am currently interning as a Backend Engineer at Genesys Tech Hub.
-
-* In addition to my technical expertise, I am an innovative and creative thinker who loves to solve complex problems. As a Startup Founder, I have developed a keen eye for identifying opportunities and implementing strategies that drive business growth. My educational background in Mechanical Engineering has provided me with a solid foundation in technical concepts and analytical skills that I bring to every project I work on.
 <hr>
-
